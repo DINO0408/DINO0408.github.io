@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    box-sizing: border-box;
+}
+
+img {
+    width: 30%;
+    height: 30%;
+}
+
+.img-start {
+    box-sizing: border-box;
+    border: 20px solid mediumpurple;
+}
+
+#img-master{
+    box-sizing: border-box;
+    border: 20px lightseagreen;
+    border-left-style: dashed;
+    border-right-style: dashed;
+    border-bottom-style: dashed;
+    border-top-style: dashed;
+}
+.relative {
+    margin-left: 200px;
+    background: hotpink;
+    width: 500px;
+    height: 500px;
+}
+
+.absolute{
+    background: coral;
+    width: 100px;
+    height: 100px;
+}
